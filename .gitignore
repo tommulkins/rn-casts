@@ -11,3 +11,4 @@ npm-debug.*
 web-build/
 web-report/
 rn-starter/node_modules
+rn-starter/.expo
