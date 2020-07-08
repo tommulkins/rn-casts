@@ -22,24 +22,20 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between'
   },
   viewOneStyle: {
-    borderWidth: 1,
     height: 50,
     width: 50,
     backgroundColor: 'red'
   },
   viewTwoStyle: {
-    borderWidth: 1,
     height: 50,
     width: 50,
     backgroundColor: 'green'
   },
   viewTwoParent: {
-    borderWidth: 1,
     height: 100,
     justifyContent: 'flex-end'
   },
   viewThreeStyle: {
-    borderWidth: 1,
     height: 50,
     width: 50,
     backgroundColor: 'purple'
